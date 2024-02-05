@@ -1,5 +1,5 @@
 # TrashIt!
- "*Segregation of biodegradable and non-biodegradable waste using ML and IoT, all integrated in a garbage bin*" - at [Team Envision at Aaruush, SRM IST](https://aaruush.net/callforaaruush/envision.html). (Prototype phase)
+ "*Segregation of biodegradable and non-biodegradable waste using ML and IoT, all integrated in a garbage bin*" - at [Team Envision](https://envision.aaruush.org). 
 
 **Objective:**  
 To efficiently automate the segregation of waste based on its type, i.e. biodegradable or not, in order to ensure proper waste disposal for healthier environment.
